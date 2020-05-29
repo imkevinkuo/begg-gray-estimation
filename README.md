@@ -1,0 +1,1 @@
+An exploration of the similarities and differences between multinomial logistic regression (mlogit) and binomial logistic regression models, described in "Calculation of Polychotomous Logistic Regression Parameters Using Individualized regressions", Begg and Gray 1984.
